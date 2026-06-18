@@ -1,0 +1,6 @@
+raw-data-zameen.csv
+model.pkl
+model_features.pkl
+__pycache__/
+*.pyc
+.streamlit/
